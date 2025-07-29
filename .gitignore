@@ -84,5 +84,8 @@ htmlcov
 !img/*.png
 !img/*.webp
 
+!xcf
+!xcf/*.xcf
+
 
 
