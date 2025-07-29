@@ -80,8 +80,9 @@ htmlcov
 
 ### Project-specific ###
 
-!png
-!png/*.png
+!img
+!img/*.png
+!img/*.webp
 
 
 
